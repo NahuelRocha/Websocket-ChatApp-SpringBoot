@@ -7,13 +7,10 @@ Chat application with Spring boot & WebSocket
 The idea of the project was to learn a new communication protocol, in this case Websocket.
 
 To do this, we built a one-on-one chat application that guarantees private and secure conversations. We will also persist these chats in a MongoDB database.
+
 WebSocket is a real-time, bidirectional communication protocol that runs over a single TCP socket. It was designed to provide more efficient, low-latency communication between a web browser and a web server, although it can also be used in other contexts.
 
 ---
-
-#### Here is a demo of the application
-
-![Future application](./app-preview.png)
 
 ## Table of Contents
 
